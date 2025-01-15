@@ -1,8 +1,13 @@
+[general]
+import = [
+	"~/.config/alacritty/theme.toml"
+]
+
 [window]
 decorations = "None"
 
 [font]
-size = 12
+size = 16
 
 [mouse]
 hide_when_typing = true
