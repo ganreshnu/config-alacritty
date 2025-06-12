@@ -1,6 +1,6 @@
 [general]
 import = [
-	"~/.config/alacritty/theme-cga.toml"
+	"~/.config/alacritty/theme-rootloops.toml"
 ]
 
 [window]
